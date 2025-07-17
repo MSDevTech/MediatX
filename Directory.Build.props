@@ -1,0 +1,12 @@
+<Project>
+	<PropertyGroup>
+		<Company>MSDevTech</Company>
+		<Copyright>Copyright © $([System.DateTime]::Now.Year) MSDevTech</Copyright>
+		<PackageProjectUrl>https://github.com/MSDevTech/MediatX</PackageProjectUrl>
+		<RepositoryType>git</RepositoryType>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<NeutralLanguage>en-US</NeutralLanguage>
+		<LangVersion>latest</LangVersion>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+</Project>
